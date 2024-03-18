@@ -1,0 +1,8 @@
+.item {
+    display: flex;
+    margin: 1rem;
+}
+
+.item * {
+    margin-right: 1rem;
+}

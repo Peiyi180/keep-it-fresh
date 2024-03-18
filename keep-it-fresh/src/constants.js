@@ -1,0 +1,1 @@
+export const HOST = 'https://65004kgjlf.execute-api.us-east-1.amazonaws.com/keep-it-fresh'

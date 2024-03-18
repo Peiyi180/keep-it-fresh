@@ -1,0 +1,16 @@
+.App {
+    margin-top: 20rem;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: #add0ba;
+
+}
+
+@media screen and (max-width: 1000px) {
+    .App {
+        margin: 10rem;
+    }
+}

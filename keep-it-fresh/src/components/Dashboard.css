@@ -1,0 +1,15 @@
+.control {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.reminder {
+    display: flex;
+    justify-content: flex-end;
+    margin: 1.5rem 0;
+}
+
+.prompt-msg {
+    margin-top: 2rem;
+}
+
